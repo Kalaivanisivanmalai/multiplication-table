@@ -1,5 +1,5 @@
-# multiplication-table// Java Program to print the multiplication table of the number N using for loop
-
+# multiplication-table
+coding:
 class Multiplicationtable {
     public static void main(String[] args)
     {
